@@ -9,7 +9,7 @@ RF24 radio(9, 10);  // CE, CSN
 const byte address[6] = "00001";
 
 ///////////////////////
-//joystick values
+//acceleration values
 int acceleration[2];
 int Xacceleration;
 int Yacceleration;
